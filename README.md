@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+This is Mihaynd's repo for backing up and storing config files
+Extra additions may be added, but I'm unsure for now.
+
+Using this as a first repo since this is a more involved jump to Linux.
+
 <!--
 **Mihaynd/mihaynd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
