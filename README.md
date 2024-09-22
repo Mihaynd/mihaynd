@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-This is Mihaynd's repo for backing up and storing config files
-Extra additions may be added, but I'm unsure for now.
+Finally back to GitHub!
+Using this for various things, one is to backup my Linux config files once I have a functional dualboot again.
 
-Using this as a first repo since this is a more involved jump to Linux.
+Right now I'm currently working on creating a portfolio for Data Analytics, first project will start in October after I figure out some starting details.
 
 <!--
 **Mihaynd/mihaynd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
